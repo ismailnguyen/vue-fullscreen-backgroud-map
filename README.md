@@ -1,9 +1,9 @@
-# vue-fullscreen-backgroud-map
-VueJS full screen backgroud Google Map on a given location
+# vue-fullscreen-background-map
+VueJS full screen background Google Map on a given location
 
 ## Install
 ```shell
-npm install --save vue-fullscreen-backgroud-map
+npm install --save vue-fullscreen-background-map
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ Just import the `FullScreenBackgroundMap` component where you want to see it !
 </template>
 
 <script>
-	import FullScreenBackgroundMap from 'vue-fullscreen-backgroud-map'
+	import FullScreenBackgroundMap from 'vue-fullscreen-background-map'
 
 	export default {
 		components: {
@@ -31,4 +31,4 @@ Location query for Google Maps (string)
 
 
 ## Screenshot
-![enter image description here](docs/img/fullscreen-backgroud-map-screenshot.png)
+![enter image description here](docs/img/fullscreen-background-map-screenshot.png)

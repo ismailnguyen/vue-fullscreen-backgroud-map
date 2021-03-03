@@ -1,14 +1,14 @@
 {
-  "name": "vue-fullscreen-backgroud-map",
+  "name": "vue-fullscreen-background-map",
   "version": "1.0.0",
   "author": "Ismaïl NGUYEN <nguyen.ismail@gmail.com>",
-  "repository": "https://github.com/ismailnguyen/vue-fullscreen-backgroud-map.git",
+  "repository": "https://github.com/ismailnguyen/vue-fullscreen-background-map.git",
   "license": "WTFPL (http://www.wtfpl.net)",
-  "main": "./dist/vue-fullscreen-backgroud-map.common.js",
+  "main": "./dist/vue-fullscreen-background-map.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-library": "vue-cli-service build --target lib --name vue-fullscreen-backgroud-map ./src/main.js",
+    "build-library": "vue-cli-service build --target lib --name vue-fullscreen-background-map ./src/main.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
