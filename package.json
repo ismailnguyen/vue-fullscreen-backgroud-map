@@ -1,8 +1,8 @@
 {
   "name": "vue-fullscreen-background-map",
   "short_description": "VueJS full screen background Google Map",
-  "description": "vue-fullscreen-background-map is Google Map background pointing on a given location.", 
-  "version": "1.0.0",
+  "description": "vue-fullscreen-background-map is Google Map background pointing on a given location.",
+  "version": "1.0.3",
   "author": "Ismaïl NGUYEN <nguyen.ismail@gmail.com>",
   "repository": "https://github.com/ismailnguyen/vue-fullscreen-background-map.git",
   "license": "Under WTFPL licence",
